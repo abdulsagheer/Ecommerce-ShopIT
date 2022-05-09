@@ -25,3 +25,5 @@ Payment method:- Stripe API.
 Version Control:- Git and GitHub.
 
 Github-Link:- https://github.com/abdulsagheer/Ecommerce-ShopIT
+
+Live-Link:- https://e-shop-it.herokuapp.com/
